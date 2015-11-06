@@ -1,1 +1,3 @@
-Thell this is my stuff text 
+line 1: I am the first line.
+second line.
+Hey 3rd LINE HERE
